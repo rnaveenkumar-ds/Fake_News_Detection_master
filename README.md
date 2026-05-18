@@ -3,7 +3,6 @@
 A Machine Learning and Natural Language Processing (NLP) project that detects whether a news statement is Fake or Real using TF-IDF Vectorization and Passive Aggressive Classifier.
 
 ---
-
 # Project Overview
 
 This project uses:
